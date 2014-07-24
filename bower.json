@@ -1,0 +1,17 @@
+{
+  "name": "Nestable",
+  "version": "0.0.1",
+  "homepage": "http://www.andrefigueira.com",
+  "authors": [
+    "Andre Figueira <andre.figueira@me.com>"
+  ],
+  "description": "Nestable drag and drop list manager",
+  "main": "jquery.nestable.js",
+  "keywords": [
+    "nestable",
+    "nest",
+    "tree",
+    "jquery"
+  ],
+  "license": "MIT"
+}
